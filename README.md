@@ -39,6 +39,10 @@ I don't have many projects that are "good" since I lack creativity but here are 
     <a href='https://github.com/RainWashedROM'>RainWashedROM (alt GitHub)</a>
   </li>
   <li>
+    <img src='https://github.com/dementia-aswad.png' width='20' height='20'>
+    <a href='https://github.com/dementia-aswad'>Dementia-Aswad (alt GitHub)</a>
+  </li>
+  <li>
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1024px-Repl.it_logo.svg.png' width='20' height='20'>
     <a href='https://replit.com/@acli26'>Repl.it Account</a>
   </li>
