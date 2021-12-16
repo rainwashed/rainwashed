@@ -30,6 +30,10 @@ I don't have many projects that are "good" since I lack creativity but here are 
     <img src="https://github.com/AlmondManttv.png" width='20' height='20'>
     <a href='https://github.com/AlmondManttv'>AlmondMan</a>
   </li>
+  <li>
+    <img src="https://github.com/unixquuw.png" width="20" height="20">
+    <a href="https://github.com/unixquuw">Unixquuw</a>
+  </li>
 </ul>
 
 ## Socials
