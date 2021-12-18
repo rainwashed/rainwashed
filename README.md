@@ -14,6 +14,7 @@ I am a (progressing) programmer based in Michigan, United States. I enjoy coding
 ## About my Computer
 This laptop is the main computer I really code on.\
 See ``neofetch`` below.
+
 ![](./neofetch.png)
 
 ## My Goal
@@ -68,4 +69,4 @@ I don't have many projects that are "good" since I lack creativity but here are 
   </li>
 </ul>
 
-Last Updated: Dec-5-2021
+Last Updated: Dec-17-2021
