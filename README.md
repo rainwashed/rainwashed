@@ -24,6 +24,7 @@ My main goal in life is find a sense of purpose whether that is with Computer Sc
 I don't have many projects that are "good" since I lack creativity but here are some that I have public.
 - [boredom-blockchain](https://github.com/rainwashed/boredom-blockchain)
 - [WindowsTerminalTerminal](https://github.com/rainwashed/windowsterminalterminal)
+- [chalk-flags](https://www.npmjs.com/package/chalk-flags)
 
 ## My Friends
 <ul>
