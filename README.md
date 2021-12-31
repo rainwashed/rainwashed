@@ -11,15 +11,6 @@
 ## About Me
 I am a (progressing) programmer based in Michigan, United States. I enjoy coding both as a passion and a hobby.
 
-## About my Computer
-This laptop is the main computer I really code on.\
-See ``neofetch`` below.
-
-![](./neofetch.png)
-
-## My Goal
-My main goal in life is find a sense of purpose whether that is with Computer Science or not. I hope to create something big and revolutionary in the future. I am a person who lives in the future a lot, not in the past, or the present.
-
 ## Projects
 I don't have many projects that are "good" since I lack creativity but here are some that I have public.
 - [boredom-blockchain](https://github.com/rainwashed/boredom-blockchain)
@@ -69,5 +60,3 @@ I don't have many projects that are "good" since I lack creativity but here are 
     <a href='https://rainwashed.org'>My Website</a>
   </li>
 </ul>
-
-Last Updated: Dec-17-2021
