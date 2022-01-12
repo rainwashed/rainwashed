@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_av.png">
+  <img src="./github_av.png" width="300" height="300">
 </p>
 <h1 align="center">RainWashed</h1>
 <h3 align="center">Student. Developer. Learner</h3>
@@ -9,54 +9,30 @@
 </p>
 
 ## About Me
-I am a (progressing) programmer based in Michigan, United States. I enjoy coding both as a passion and a hobby.
+I am a (progressing) programmer based in Michigan, United States. I enjoy coding both as a passion and a hobby. I play video games and study a lot as well!
 
 ## Projects
-I don't have many projects that are "good" since I lack creativity but here are some that I have public.
-- [boredom-blockchain](https://github.com/rainwashed/boredom-blockchain)
-- [WindowsTerminalTerminal](https://github.com/rainwashed/windowsterminalterminal)
-- [chalk-flags](https://www.npmjs.com/package/chalk-flags)
+Here are some of the projects I've made that are public. All of them, in my opinion at least, are terrible but you just have to progress through it
+- [boredom-blockchain](https://github.com/rainwashed/boredom-blockchain) [\*]
+- [WindowsTerminalTerminal](https://github.com/rainwashed/windowsterminalterminal) [\*]
+- [chalk-flags](https://www.npmjs.com/package/chalk-flags) [\-]
 
-## My Friends
-<ul>
-  <li>
-    <img src="https://github.com/AlmondManttv.png" width='20' height='20'>
-    <a href='https://github.com/AlmondManttv'>AlmondMan</a>
-  </li>
-  <li>
-    <img src="https://github.com/unixquuw.png" width="20" height="20">
-    <a href="https://github.com/unixquuw">Unixquuw</a>
-  </li>
-</ul>
+\* - Discontinued either to lack of passion and/or bug I was too lazy to fix \
+\- - Unsure as to whether I will continue or not
+
+## Skillsets
+- Advanced in Python and JavaScript
+- Moderate in Web Development [\*]
+- Novice understanding of computer systems
+
+\* - My main focus for this year
 
 ## Socials
-<ul>
-  <li>
-    <img src="https://github.com/RainWashedROM.png" width='20' height='20'>
-    <a href='https://github.com/RainWashedROM'>RainWashedROM (alt GitHub)</a>
-  </li>
-  <li>
-    <img src='https://github.com/dementia-aswad.png' width='20' height='20'>
-    <a href='https://github.com/dementia-aswad'>Dementia-Aswad (alt GitHub)</a>
-  </li>
-  <li>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1024px-Repl.it_logo.svg.png' width='20' height='20'>
-    <a href='https://replit.com/@acli26'>Repl.it Account</a>
-  </li>
-  <li>
-    <img src='https://www.svgrepo.com/show/353655/discord-icon.svg' width='20' height='20'>
-    <a href='https://discord.com/users/810960209677516830'>Discord Account</a>  
-  </li>   
-  <li>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png' width='20' height='20'>
-    <a href='https://www.instagram.com/rain_washed'>Instagram Account</a>  
-  </li>
-  <li>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png' width='20' height='15'>
-    <a href='https://www.youtube.com/channel/UCQhpZRLNpNvw27xslQH9a0g'>YouTube Account</a>  
-  </li>
-  <li>
-    <img src='./rainwashed.png' width='20' height='20'>
-    <a href='https://rainwashed.org'>My Website</a>
-  </li>
-</ul>
+- [dementia.aswad / Alt GitHub Account](https://github.com/dementia-aswad)
+- [rainwashedrom / Alt GitHub Account](https://github.com/rainwashedrom)
+- [rainwashed.org@gmail.com / Professional email](mailto:rainwashed.org@gmail.com)
+- [rainwashed.org / Personal website [\*]](https://rainwashed.org)
+
+\* - Under development still (lol)
+
+thanks for reading ♥
