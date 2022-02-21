@@ -42,10 +42,10 @@ Currently I am working on *nothing* because I have been busy with school. I have
   <img src="https://i.ibb.co/KDVRk2n/image.png" alt="rain_washed" width="30" height="30">
 </a>
 <a href="mailto:rainwashed.org@gmail.com" title="Google Email">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="rainwashed.org@gmail.com" width="auto" height="30">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/mailru-512.png" alt="rainwashed.org@gmail.com" width="auto" height="30">
 </a>
 <a href="mailto:rainwashed@yandex.com" title="Yandex Email">
-  <img src="https://user-images.githubusercontent.com/15643750/30161062-fdd41dcc-93c6-11e7-98f8-2261f9049770.png" alt="rainwashed@yandex.com" width="auto" height="30">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/mailru-512.png" alt="rainwashed@yandex.com" width="auto" height="30">
 </a>
 
 ## GitHub Stats
