@@ -11,6 +11,8 @@ My alias is **Rain** and I am a *(progressing)* self-taught full-stack web devel
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript" width="30" height="30" title="Learning TypeScript">
 <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" alt="React" width="30" height="30" title="In-depth React">
 
+\* Note: Developing can be both projects and skills I am working on
+
 ## Skillsets
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="30" height="30" title="Python">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/187_Js-512.png" alt="JavaScript" width="30" height="30" title="JavaScript">
