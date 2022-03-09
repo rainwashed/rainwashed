@@ -32,7 +32,7 @@ Currently I am working on *nothing* because I have been busy with school. I have
 **Older Projects**
   - [boredom-blockchain](https://github.com/rainwashed/boredom-blockchain) (discontinued)
   - [WindowsTerminalTerminal](https://github.com/rainwashed/windowsterminalterminal) (discontinued)
-  - [chalk-flags](https://www.npmjs.com/package/chalk-flags) (basically discontinued)
+  - [chalk-flags](https://www.npmjs.com/package/chalk-flags) (rebuilding)
 
 ## Socials
 <a href="https://github.com/dementia-aswad" title="Alt GitHub 1">
