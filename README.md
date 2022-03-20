@@ -8,7 +8,6 @@
 My alias is **Rain** and I am a *(progressing)* self-taught full-stack web developer. I mostly work by myself as I do not have any friends that program, but I would be glad to work with anyone! I also like to play tennis, work on my math+science+reading, and read+learn.
 
 ## Developing
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript" width="30" height="30" title="Learning TypeScript">
 <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" alt="React" width="30" height="30" title="In-depth React">
 
 \* Note: Developing can be both projects and skills I am working on
