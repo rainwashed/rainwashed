@@ -29,9 +29,9 @@ My alias is **Rain** and I am a *(progressing)* self-taught full-stack web devel
 Currently I am working on *nothing* because I have been busy with school. I have some projects planned out however, I just have not found the time to work on them. \
 \
 **Older Projects**
-  - [boredom-blockchain](https://github.com/rainwashed/boredom-blockchain) (discontinued)
-  - [WindowsTerminalTerminal](https://github.com/rainwashed/windowsterminalterminal) (discontinued)
-  - [chalk-flags](https://www.npmjs.com/package/chalk-flags) (rebuilding)
+  - [boredom-blockchain](https://github.com/rainwashed/boredom-blockchain) (discontinued \[please dont even look at this\])
+  - [WindowsTerminalTerminal](https://github.com/rainwashed/windowsterminalterminal) (rebuilding in Node.js)
+  - [chalk-flags](https://www.npmjs.com/package/chalk-flags) (somewhat rebuilt)
 
 ## Socials
 <a href="https://github.com/dementia-aswad" title="Alt GitHub 1">
