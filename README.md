@@ -23,7 +23,7 @@ class RainWashed extends Person {
     console.log("Hello World!");
 
     super();
-    this.name = "Andrew C. L.";
+    this.name = "Andrew";
     this.alias = "RainWashed";
     this.gender = "male";
     this.age = -1;
