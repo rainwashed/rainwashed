@@ -1,8 +1,8 @@
 ## Hello, I am 李. / *Hola, soy 李* / **你好,我是李.**
 
 <div>
-<img src="https://github.com/rainwashed.png" alt="my profile photo" height="200">
-<img src="https://github-readme-stats.vercel.app/api?username=rainwashed&theme=dark" alt="my github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainwashed&layout=compact&theme=dark" alt="my github stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=rainwashed&theme=dark" alt="my github stats" height="170"/>
 </div>
 
 #### Who am I? / *¿Quién soy yo?*
