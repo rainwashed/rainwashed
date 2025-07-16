@@ -1,41 +1,88 @@
-## Hello, I am 李. / *Hola, soy 李* / **你好,我是李.**
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainwashed&layout=compact&theme=dark" alt="my github stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api?username=rainwashed&theme=dark" alt="my github stats" height="170"/>
+<div align="center">
+  <img height="100" src="https://count.getloli.com/@rainwashed?name=rainwashed&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&_=0.38534800504451083"  />
 </div>
 
-#### Who am I? / *¿Quién soy yo?*
-I am a programmer and enthusiast of artificial intelligence. I am in high school and hope to do computer engineering in the future. I primarily program websites and web servers, though I am looking at doing systems programming and more low-level programming.
+###
 
-*Soy programador y enthusiast de la inteligencia artificial. Estoy en colegio y espero hacer un ingeniero de las computadoras en el futuro. Programo los sitios webs y los servidors webs, aunque estoy buscando a hacer el programando del sistema y mas nivel bajo programando.*
+<h1 align="center">你好, 我是李!</h1>
 
-#### Skills / *Las habilidades*
-<div>
-<img src="./git.png" alt="git" title="Git Version Control" width="52" />
-<img src="./linux.png" alt="linux" title="Linux" width="52" />
-<img src="./tailwindcss.png" alt="tailwindcss" title="Tailwindcss" width="52" />
-<img src="./bunruntime.png" alt="bun" title="Bun runtime" width="52" />
-<img src="./nodejs.png" alt="nodejs" title="NodeJS" width="52" />
-<img src="./typescript.png" alt="typescript" title="Typescript" width="52" />
-<img src="./javascript.png" alt="javascript" title="Javascript" width="52" />
-<img src="./python.png" alt="python" title="Python" width="52" />
-<img src="./react.png" alt="react" title="React" width="52" />
-<img src="./vue.png" alt="vue" title="Vue" width="52">
+###
+
+<h4 align="left">I program and make YouTube videos about programming, artifical intelligence, and technology.</h4>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rainwashed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainwashed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
-#### Learning / *Estoy aprendiendo*
-<div>
-<img src="./rust.png" alt="rust" title="Rust" width="52" />
-<img src="./golang.png" alt="golang" title="Golang" width="52" />
-<img src="./nuxt.png" alt="nuxt" title="Nuxt" width="52" />
-<img src="./elysiajs.png" alt="elysia" title="ElysiaJS" width="52" />
-<img src="./pytorch.png" alt="pytorch" title="Pytorch" width="52" />
-<img src="./deno.png" alt="deno" title="Deno" width="52" />
-<img src="./neovim.png" alt="neovim" title="Neovim" width="52" />
+###
+
+<p align="left">Technologies I use:</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-#### Contact Information / *La información de contacto*
-Email (*el correo electrónico*): rain@rainwashed.xyz \
-Website (*el sitio web*): https://rainwashed.xyz \
-YouTube: https://youtube.com/@rainwashedz
+###
+
+<p align="left">Contact me here:</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.youtube.com/@rainwashedz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="mailto:li@lizj.xyz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mynameisli/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
