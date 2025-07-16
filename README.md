@@ -1,29 +1,17 @@
 <div align="center">
   <img height="100" src="https://count.getloli.com/@rainwashed?name=rainwashed&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&_=0.38534800504451083"  />
 </div>
-
-###
-
 <h1 align="center">你好, 我是李!</h1>
-
-###
-
 <h4 align="left">I program and make YouTube videos about programming, artifical intelligence, and technology.</h4>
-
-###
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rainwashed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainwashed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rainwashed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainwashed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-###
-
 <p align="left">Technologies I use:</p>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
@@ -63,26 +51,24 @@
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=elysia" height="40" alt="elysia logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" />
 </div>
 
-###
-
 <p align="left">Contact me here:</p>
-
-###
 
 <br clear="both">
 
 <div align="left">
   <a href="https://www.youtube.com/@rainwashedz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="36" alt="youtube logo"  />
   </a>
   <a href="mailto:li@lizj.xyz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="36" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mynameisli/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="36" alt="linkedin logo"  />
   </a>
 </div>
-
-###
