@@ -72,3 +72,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="36" alt="linkedin logo"  />
   </a>
 </div>
+
+<p>Support my work by donating:</p>
+<div align="left">
+  <a href="https://buymeacoffee.com/rainwashed"><img src="https://i.ibb.co/HfmhGSXP/bmc-button.png" alt="buy me a coffee" width="120"></a>
+</div>
